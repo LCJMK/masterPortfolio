@@ -13,7 +13,7 @@ export default function Achievement() {
       <div className="achievement-main-div">
         <div className="achievement-header">
           <h1 className="heading achievement-heading">
-            {achievementSection.title}
+            Esto solo es una prueba
           </h1>
           <p className="subTitle achievement-subtitle">
             {achievementSection.subtitle}
